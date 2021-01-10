@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "S:\\Microsoft\\AzureCertification\\AZ-204\\ImplementIaasSolutionCourse\\CreatingAndRunningContainerInstances_In_Azure\\demoapp\\DemoApp.csproj": {}
+  },
+  "projects": {
+    "S:\\Microsoft\\AzureCertification\\AZ-204\\ImplementIaasSolutionCourse\\CreatingAndRunningContainerInstances_In_Azure\\demoapp\\DemoApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "S:\\Microsoft\\AzureCertification\\AZ-204\\ImplementIaasSolutionCourse\\CreatingAndRunningContainerInstances_In_Azure\\demoapp\\DemoApp.csproj",
+        "projectName": "DemoApp",
+        "projectPath": "S:\\Microsoft\\AzureCertification\\AZ-204\\ImplementIaasSolutionCourse\\CreatingAndRunningContainerInstances_In_Azure\\demoapp\\DemoApp.csproj",
+        "packagesPath": "C:\\Users\\saran\\.nuget\\packages\\",
+        "outputPath": "S:\\Microsoft\\AzureCertification\\AZ-204\\ImplementIaasSolutionCourse\\CreatingAndRunningContainerInstances_In_Azure\\demoapp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saran\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
